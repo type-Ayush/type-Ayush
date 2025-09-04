@@ -1,4 +1,4 @@
-<img src="https://www.bing.com/th/id/OGC.9d09c50ea4bc15dc79caefa92a2b5c40?r=0&o=7&cb=thfc1&pid=1.7&rm=3&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f1f%2f68%2f3f%2f1f683f235c40e703273f5c0a340c613f.gif&ehk=U5i2ObE7SG7PUxxrO0Xl9CCfpnIbXynSWMfN9HVDlpU%3d&ucfimg=1" alt="Funny GIF" width ="800" height = "300"/>
+<img src="https://www.bing.com/th/id/OGC.9d09c50ea4bc15dc79caefa92a2b5c40?r=0&o=7&cb=thfc1&pid=1.7&rm=3&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f1f%2f68%2f3f%2f1f683f235c40e703273f5c0a340c613f.gif&ehk=U5i2ObE7SG7PUxxrO0Xl9CCfpnIbXynSWMfN9HVDlpU%3d&ucfimg=1" alt="NVM" width ="800" height = "300"/>
 </a>
 
 # About Me
